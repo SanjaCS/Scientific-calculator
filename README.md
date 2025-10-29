@@ -9,7 +9,6 @@ It supports basic arithmetic operations as well as trigonometric functions like 
 
 ![Calculator Screenshot](./Screenshots/calculator.png)
 
-*(Replace `screenshot.png` with your actual image file path or a hosted image URL.)*
 
 ---
 
